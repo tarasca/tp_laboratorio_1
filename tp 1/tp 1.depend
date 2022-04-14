@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649967155 source:d:\socrates\tp 1\bass.c
+	<stdio.h>
+	<stdlib.h>
+	"bass.h"
+
+1649967212 source:d:\socrates\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bass.h"
+
+1649967212 d:\socrates\tp 1\bass.h
+
